@@ -3,11 +3,15 @@
 🧑‍💻 Tenho 20 anos, estudante de Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba, atualmente no quinto semestre, com grande paixão pelo mundo da tecnologia, sempre procurando por novas oportunidades para aplicar e ampliar meu conhecimento.
 ##
 
-<div>
+<div style="display: inline-block; margin-right: 10px;">
     <a href="https://github.com/GabHamati">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabHamati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabHamati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
+<div style="display: inline-block;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabHamati&layout=compact&langs_count=16&theme=radical"/>
 </div>
+
 
 ##
 
